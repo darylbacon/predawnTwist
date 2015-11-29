@@ -1,8 +1,8 @@
 # predawnTwist
-My take on the predawn theme created by Jamie Wilson (https://github.com/jamiewilson/predawn). 
+My take on the predawn theme created by Jamie Wilson (https://github.com/jamiewilson/predawn).
 
 ---
-## My prefered Sublime Settings
+## My preffered Sublime Settings
 ```{
   "color_scheme": "Packages/PredawnTwist/predawnTwist.tmTheme",
   "predawnTwist_findreplace_small": true,
